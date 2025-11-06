@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import "../styles/contact.css";
+import "../Styles/contact.css";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import emailjs from "emailjs-com";
 
