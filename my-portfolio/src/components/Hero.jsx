@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import '../styles/hero.css';
+import '../Styles/hero.css';
 
 const Hero = () => {
   useEffect(() => {

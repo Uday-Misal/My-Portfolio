@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import '../styles/about.css';
+import '../Styles/about.css';
 import profileImg from '../assets/uday.jpg'; // your image
 
 const About = () => {
